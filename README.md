@@ -1,2 +1,5 @@
-# Zomato_landing_page
- Zomato page clone
+# This is my zomato landing page clone
+
+## Done with first commit.
+
+## Set Up created here for our appln
